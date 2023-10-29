@@ -14,4 +14,4 @@ The "web-chat-app" is a simple chat application that demonstrates the integratio
 - Simple user interface built with React.js.
 - Easy to understand and modify for your needs.
 
-### Create by: https://github.com/malikarslanasif131
+### Created by: https://github.com/malikarslanasif131
